@@ -1,0 +1,231 @@
+{
+  "usuarios": [
+    {
+      "nombre": "Joaquin Fuentes",
+      "nombreUsuario": "joaquin",
+      "rol": "administrador",
+      "status": "activo",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "nombre": "Lionel Messi",
+      "nombreUsuario": "messi",
+      "rol": "empleado",
+      "status": "activo",
+      "password": "123456",
+      "id": 2
+    }
+  ],
+  "productos": [
+    {
+      "nombreComercial": "Tafirol",
+      "monodroga": "Paracetamol",
+      "presentacion": "Comprimido",
+      "gramos": "500 mg",
+      "cantidad": "x30",
+      "disponibilidad": "si",
+      "laboratorio": "Roemer",
+      "precio": "1200",
+      "id": 1
+    },
+    {
+      "nombreComercial": "Amoxidal",
+      "monodroga": "Amoxicilina",
+      "presentacion": "Cápsula",
+      "gramos": "600 mg",
+      "cantidad": "x10",
+      "disponibilidad": "si",
+      "laboratorio": "Bagó",
+      "precio": 600,
+      "id": 2
+    },
+    {
+      "nombreComercial": "Dioxaflex",
+      "monodroga": "Diclofenac",
+      "presentacion": "Comprimido",
+      "gramos": "1 g",
+      "cantidad": "x7",
+      "disponibilidad": "si",
+      "laboratorio": "Elea",
+      "precio": 700,
+      "id": 3
+    },
+    {
+      "nombreComercial": "Ibupirac",
+      "monodroga": "Ibuprofeno",
+      "presentacion": "Comprimido",
+      "gramos": "600 mg",
+      "cantidad": "x30",
+      "disponibilidad": "si",
+      "laboratorio": "Bayer",
+      "precio": 550,
+      "id": 4
+    },
+    {
+      "nombreComercial": "Actron",
+      "monodroga": "Ibuprofeno",
+      "presentacion": "Comprimido",
+      "gramos": "600 mg",
+      "cantidad": "x10",
+      "disponibilidad": "si",
+      "laboratorio": "Roche",
+      "precio": 600,
+      "id": 5
+    },
+    {
+      "nombreComercial": "Ceporexin",
+      "monodroga": "Cefalexina",
+      "presentacion": "Cápsula",
+      "gramos": "500 mg",
+      "cantidad": "x7",
+      "disponibilidad": "si",
+      "laboratorio": "Investi",
+      "precio": 550,
+      "id": 6
+    },
+    {
+      "nombreComercial": "Naproxenol",
+      "monodroga": "Naproxeno",
+      "presentacion": "Comprimido",
+      "gramos": "250 mg",
+      "cantidad": "x20",
+      "disponibilidad": "si",
+      "laboratorio": "Roemer",
+      "precio": 450,
+      "id": 7
+    },
+    {
+      "nombreComercial": "Claritox",
+      "monodroga": "Loratadina",
+      "presentacion": "Jarabe",
+      "gramos": "5 mg",
+      "cantidad": "x150 ml",
+      "disponibilidad": "si",
+      "laboratorio": "Bagó",
+      "precio": 300,
+      "id": 8
+    },
+    {
+      "nombreComercial": "Omepracid",
+      "monodroga": "Omeprazol",
+      "presentacion": "Cápsula",
+      "gramos": "20 mg",
+      "cantidad": "x14",
+      "disponibilidad": "si",
+      "laboratorio": "Elea",
+      "precio": 800,
+      "id": 9
+    },
+    {
+      "nombreComercial": "Aspirina Plus",
+      "monodroga": "Ácido acetilsalicílico",
+      "presentacion": "Comprimido",
+      "gramos": "500 mg",
+      "cantidad": "x50",
+      "disponibilidad": "si",
+      "laboratorio": "Bayer",
+      "precio": 700,
+      "id": 10
+    },
+    {
+      "nombreComercial": "Voltadol",
+      "monodroga": "Diclofenac",
+      "presentacion": "Gel",
+      "gramos": "30 g",
+      "cantidad": "x1",
+      "disponibilidad": "si",
+      "laboratorio": "Roche",
+      "precio": 200,
+      "id": 11
+    },
+    {
+      "nombreComercial": "Paroxil",
+      "monodroga": "Paroxetina",
+      "presentacion": "Comprimido",
+      "gramos": "20 mg",
+      "cantidad": "x30",
+      "disponibilidad": "si",
+      "laboratorio": "Genérico",
+      "precio": 350,
+      "id": 13
+    },
+    {
+      "nombreComercial": "Levotirox",
+      "monodroga": "Levotiroxina",
+      "presentacion": "Tableta",
+      "gramos": "50 mcg",
+      "cantidad": "x100",
+      "disponibilidad": "si",
+      "laboratorio": "Sanofi",
+      "precio": 500,
+      "id": 14
+    },
+    {
+      "nombreComercial": "Dalsy",
+      "monodroga": "Ibuprofeno",
+      "presentacion": "Jarabe",
+      "gramos": "20 mg",
+      "cantidad": "x200 ml",
+      "disponibilidad": "si",
+      "laboratorio": "Johnson & Johnson",
+      "precio": 450,
+      "id": 15
+    },
+    {
+      "nombreComercial": "Ranitidine",
+      "monodroga": "Ranitidina",
+      "presentacion": "Comprimido",
+      "gramos": "150 mg",
+      "cantidad": "x20",
+      "disponibilidad": "si",
+      "laboratorio": "Pfizer",
+      "precio": 600,
+      "id": 16
+    },
+    {
+      "nombreComercial": "Bisolvon",
+      "monodroga": "Bromhexina",
+      "presentacion": "Jarabe",
+      "gramos": "4 mg",
+      "cantidad": "x120 ml",
+      "disponibilidad": "si",
+      "laboratorio": "Boehringer Ingelheim",
+      "precio": 300,
+      "id": 17
+    },
+    {
+      "nombreComercial": "Ampiclox",
+      "monodroga": "Ampicilina",
+      "presentacion": "Cápsula",
+      "gramos": "500 mg",
+      "cantidad": "x14",
+      "disponibilidad": "si",
+      "laboratorio": "GlaxoSmithKline",
+      "precio": 700,
+      "id": 18
+    },
+    {
+      "nombreComercial": "Metformina",
+      "monodroga": "Metformina",
+      "presentacion": "Comprimido",
+      "gramos": "850 mg",
+      "cantidad": "x60",
+      "disponibilidad": "si",
+      "laboratorio": "Merck",
+      "precio": 550,
+      "id": 19
+    },
+    {
+      "nombreComercial": "Dolofén",
+      "monodroga": "Paracetamol",
+      "presentacion": "Sobre",
+      "gramos": "650 mg",
+      "cantidad": "x5",
+      "disponibilidad": "no",
+      "laboratorio": "Novartis",
+      "precio": 400,
+      "id": 20
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+/* LOGIN */
+.main-login {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #041C32;
+}
+
+#input-login::placeholder {
+  text-align: center;
+}
+
+.imagen-login {
+  width: 40%;
+}
+
+/* ADMINISTRADOR */
+
+.bg-azulOscuro{
+  background-color: #041C32;
+}
+
+.mainSection{
+  min-height: 100vh;
+}
+
+/* MENU */
+.logoMenu{
+  width: 70px;
+}
